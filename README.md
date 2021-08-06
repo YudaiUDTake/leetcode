@@ -4,6 +4,6 @@
 1. This is my Python Leetcode solutions.
 
 
-| # | Title | Solution | Basic idea |
+| # | Title | Difficulty | Solution | Basic idea |
 | ------- | ------- | ------- | ------- |
-| 1 | FIRST TITLE | solution | basic idea | 
+| 1 | Two Sum | Easy | solution | basic idea | 
