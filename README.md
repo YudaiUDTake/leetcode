@@ -5,5 +5,5 @@
 
 
 | # | Title | Difficulty | Solution | Basic idea |
-| ------- | ------- | ------- | ------- |
+| ------- | ------- | ------- | ------- | ------- |
 | 1 | Two Sum | Easy | solution | basic idea | 
